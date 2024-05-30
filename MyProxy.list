@@ -1,2 +1,3 @@
 # 自定义代理规则
 DOMAIN-SUFFIX,developers.cloudflare.com
+DOMAIN-SUFFIX,bitwarden.com
